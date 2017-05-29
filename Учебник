@@ -12,3 +12,7 @@ https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov
 
 Рандом
 https://pythonworld.ru/moduli/modul-random.html
+
+Модули для построения графиков
+import pylab
+from matplotlib import mlab
